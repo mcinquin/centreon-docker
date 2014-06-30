@@ -1,4 +1,4 @@
 centreon-docker
 ===============
 
-Centreon on Docker
+Docker image in progress...
